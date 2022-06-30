@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/codewithshubham/static/css/main.b9366011.css",
-    "main.js": "/codewithshubham/static/js/main.89b7aa75.js",
+    "main.js": "/codewithshubham/static/js/main.e2051645.js",
     "static/js/787.93156f42.chunk.js": "/codewithshubham/static/js/787.93156f42.chunk.js",
     "static/media/logo.svg": "/codewithshubham/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/codewithshubham/index.html",
     "main.b9366011.css.map": "/codewithshubham/static/css/main.b9366011.css.map",
-    "main.89b7aa75.js.map": "/codewithshubham/static/js/main.89b7aa75.js.map",
+    "main.e2051645.js.map": "/codewithshubham/static/js/main.e2051645.js.map",
     "787.93156f42.chunk.js.map": "/codewithshubham/static/js/787.93156f42.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b9366011.css",
-    "static/js/main.89b7aa75.js"
+    "static/js/main.e2051645.js"
   ]
 }
