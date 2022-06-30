@@ -1,0 +1,29 @@
+.footer{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    /* display: flex; */
+    display: grid;
+    grid-template-rows: auto auto auto;
+    /* justify-content: space-between; */
+
+}
+.socialmedia{
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    color: white;
+}
+.socialmedia div a{
+    text-decoration: none;
+    color: white;
+}
+#footerlogo{
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    margin-right:30px;
+
+}

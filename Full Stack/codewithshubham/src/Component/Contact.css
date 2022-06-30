@@ -1,0 +1,14 @@
+.contact{
+    padding-top: 70px;
+    background-color: rgb(94, 75, 75);
+    padding-bottom: 20px;
+    color: white;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.contact_two_part{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}

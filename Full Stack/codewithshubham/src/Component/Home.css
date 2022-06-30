@@ -1,0 +1,62 @@
+.home{
+   /* position: relative; */
+   /* position: fixed; */
+   margin-top: 60px;
+   padding-top: 30px;
+   text-align: center;
+   justify-content: center;
+   /* margin: auto; */
+   align-items: center;
+   background-color: rgb(94, 75, 75);
+   color: white;
+
+}
+.home_main{
+    align-items: center;
+    box-shadow: 0px 10px rgb(99, 96, 96);
+    
+}
+.home_main div{
+max-width: 400px;   
+
+margin:  0 auto !important;
+float: none !important;
+
+}
+.home_main div a{
+    /* display: flex; */
+    text-decoration: none;
+
+    
+}
+.home_main div a button{
+    margin-bottom: 40px;
+    margin-right: 10px;
+    background-color: black;
+    color: white;
+    border: none;
+    cursor: pointer;
+    padding: 9px;
+    border-radius: 4px;
+    
+}
+.home_main div a button:hover{
+    background-color: red;
+}
+/* second section */
+.home_courses, .home_blog, .home_project{
+    padding-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 5%;
+    padding-right: 5%;
+    box-shadow: 0px 10px rgb(99, 96, 96);
+    /* display: flex; */
+}
+
+.flexbox{
+    display: flex;
+    flex-wrap:wrap;
+    /* grid-template-columns: auto auto auto; */
+    /* margin-right: 10px; */
+    /* justify-content: space-evenly; */
+}

@@ -1,0 +1,17 @@
+.courses{
+    padding-top: 80px;
+    background-color: rgb(94, 75, 75);
+    padding-bottom: 20px;
+    color: white;
+    padding-left: 5%;
+    padding-right: 5%;
+
+}
+/*  */
+.flexbox{
+    display: flex;
+    flex-wrap:wrap;
+    /* grid-template-columns: auto auto auto; */
+    /* margin-right: 10px; */
+    /* justify-content: space-evenly; */
+}

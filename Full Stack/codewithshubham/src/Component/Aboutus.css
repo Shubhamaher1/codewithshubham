@@ -1,0 +1,24 @@
+.about_us{
+    padding-top: 80px;
+    background-color: rgb(94, 75, 75);
+    padding-bottom: 20px;
+    color: white;
+}
+#myphoto{
+ width:200px;
+ height:200px;
+ border-radius: 100px;
+}
+.social_m{
+    margin-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.social_m a{
+
+    text-decoration: none;
+    margin-left: 30px;
+    color: white;
+}
